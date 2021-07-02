@@ -66,3 +66,4 @@ print(obj_2.pariemetr())
 print(obj_2.area())
 print(obj_2.a_height())
 print(obj_2.triangle_type())
+
